@@ -23,4 +23,4 @@ jobs:
       # uses: peaceiris/actions-gh-pages@373f7f263a76c20808c831209c920827a82a2847
       uses: peaceiris/actions-gh-pages@v3.9.3
       with:
-        github_token: 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
+        github_token: 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
